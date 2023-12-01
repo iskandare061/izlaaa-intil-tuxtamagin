@@ -1,3 +1,20 @@
- * {
-    background-color: aqua;
+ header{
+    background-color: rgb(0, 255, 17);
+    position: sticky;
  }
+ .modal-container {
+    position: fixed;
+    background-color: rgb(52, 52, 185);
+    backdrop-filter: blur(2px);
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+.absolute-blok {
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+}
